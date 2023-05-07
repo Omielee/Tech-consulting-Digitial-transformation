@@ -31,10 +31,12 @@ Digital assurance and quality engineering has established itself as a role that 
 ## SAP Services
 SAP team can provide a special mix of SAP, business transformation, and industry skills and experience. The SAP-based transformation journeys of clients can also be accelerated by jointly developed SAP accelerators and technologies. The services cover the complete transformation lifecycle, from conception to implementation and continuous administration of a client's whole SAP ecosystem.
     *Service before* : Greenfield S/4HANA implementation - Global engineering firm, Brownfield S/4HANA migration - Irish utilities company, Greenfield S/4HANA transformation - Irish food manufacturer, Greenfield S/4HANA private cloud programme - International healthcare packaging manufacturer
+
 **DEFEND**
 ## Cyber security
 Specialist services across cybersecurity strategy and transformation, data privacy, digital identity, cloud security architecture, operational technology (OT) security, next generation threat detection and response, and penetration testing.
     *Service before* : Security operations team - Public body, Network security strategy - Global packaging company, Cybersecurity OT programme - Multiple sectors, Foundational IAM solution - Multiple sectors, Data protection and privacy - Public and private sectors
+
 **TRANSFORM**
 ## IT Strategy & Architecture
 Offer practical and effective IT strategies, target architectures, and technology roadmaps that combine industry insight with a deep understanding of relevant platforms. Assist with architecture governance, identifying issues and risks, and enabling a shift from maintenance to innovation. Collaborate with customers and partners to optimize innovation ecosystems, establish or enhance enterprise architecture capabilities, and implement relevant tools and methodologies.
